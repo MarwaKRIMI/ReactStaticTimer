@@ -1,2 +1,0 @@
-# ReactStaticTimer
-Created with CodeSandbox
